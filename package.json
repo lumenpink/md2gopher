@@ -3,7 +3,7 @@
 "version": "0.0.1",
 "description": "Bash compatible AWK script to convert Markdown files do 70 cols Gopher Holes",
 "global": "false",
-"install": "install bin/md2gopher.awk /usr/local/bin/md2gopher",
+"install": "make install",
 "scripts": [
 "bin/md2gopher.awk"
 ]
