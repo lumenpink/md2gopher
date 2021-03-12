@@ -1,0 +1,10 @@
+{
+"name": "md2gopher",
+"version": "0.0.1",
+"description": "Bash compatible AWK script to convert Markdown files do 70 cols Gopher Holes",
+"global": "true",
+"install": "install bin/md2gopher.awk /usr/local/bin/md2gopher",
+"scripts": [
+"bin/md2gopher.awk"
+]
+}
